@@ -8,14 +8,6 @@ import Room from './Room';
 import Background from '../components/Background';
 import Theme from '../Theme';
 
-
-// function App() {
-//   return (
-
-//   );
-// }
-
-
 const App = () =>{
   return(
     <Theme>
